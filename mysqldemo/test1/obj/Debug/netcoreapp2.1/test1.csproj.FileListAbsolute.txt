@@ -1,0 +1,14 @@
+/Users/lory.hou/Projects/test1/test1/bin/Debug/netcoreapp2.1/test1.deps.json
+/Users/lory.hou/Projects/test1/test1/bin/Debug/netcoreapp2.1/test1.runtimeconfig.json
+/Users/lory.hou/Projects/test1/test1/bin/Debug/netcoreapp2.1/test1.runtimeconfig.dev.json
+/Users/lory.hou/Projects/test1/test1/bin/Debug/netcoreapp2.1/test1.dll
+/Users/lory.hou/Projects/test1/test1/bin/Debug/netcoreapp2.1/test1.pdb
+/Users/lory.hou/Projects/test1/test1/obj/Debug/netcoreapp2.1/test1.csprojResolveAssemblyReference.cache
+/Users/lory.hou/Projects/test1/test1/obj/Debug/netcoreapp2.1/test1.csproj.CoreCompileInputs.cache
+/Users/lory.hou/Projects/test1/test1/obj/Debug/netcoreapp2.1/test1.RazorAssemblyInfo.cache
+/Users/lory.hou/Projects/test1/test1/obj/Debug/netcoreapp2.1/test1.RazorAssemblyInfo.cs
+/Users/lory.hou/Projects/test1/test1/obj/Debug/netcoreapp2.1/test1.AssemblyInfoInputs.cache
+/Users/lory.hou/Projects/test1/test1/obj/Debug/netcoreapp2.1/test1.AssemblyInfo.cs
+/Users/lory.hou/Projects/test1/test1/obj/Debug/netcoreapp2.1/test1.RazorTargetAssemblyInfo.cache
+/Users/lory.hou/Projects/test1/test1/obj/Debug/netcoreapp2.1/test1.dll
+/Users/lory.hou/Projects/test1/test1/obj/Debug/netcoreapp2.1/test1.pdb

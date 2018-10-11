@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{8C843DCF-552E-474C-8D21-D915235B3AA2}|Default">
+  <MonoDevelop.Ide.ItemProperties.test1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test1/Program.cs">
+    <Files>
+      <File FileName="test1/Startup.cs" Line="48" Column="10" />
+      <File FileName="test1/appsettings.json" Line="8" Column="43" />
+      <File FileName="test1/Bank.cs" Line="17" Column="1" />
+      <File FileName="test1/PortalDbContext.cs" Line="21" Column="38" />
+      <File FileName="test1/Controllers/BanksController.cs" Line="27" Column="1" />
+      <File FileName="test1/Controllers/ValuesController.cs" Line="18" Column="10" />
+      <File FileName="test1/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="test1/Properties/launchSettings.json" Line="24" Column="46" />
+      <File FileName="test1/Program.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
